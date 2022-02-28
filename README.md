@@ -10,18 +10,11 @@
 - ⚡ Fun fact **I love to watch movie.**
 
 ### Connect with me:
-
 <a href="https://twitter.com/kripana97242749" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kripanand" height="30" width="30" /></a>
 <a href="https://in.linkedin.com/in/kripanandkumarsah" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kripanand" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCwZTx2OnYhKwiUcIpli35YA" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codepreps" height="30" width="30" /></a>
-
-
-<br />
-
 ### Languages and Tools:
-
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></p>
- 
 <a href="https://github.com/erkripa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkripa&theme=light&hide_langs_below=1" />
 </a>
