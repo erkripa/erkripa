@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkripa&layout=compact&hide=html" alt="kripanand" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkripa&show_icons=true" alt="kripanand" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erkripa&show_icons=true" alt="kripanand" /></p>
 
 
 <a href="https://github.com/erkripa">
