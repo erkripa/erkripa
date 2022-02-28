@@ -22,8 +22,7 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkripa&layout=compact&hide=html" alt="kripanand" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erkripa&show_icons=true" alt="kripanand" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkripa&layout=compact&hide=html" alt="kripanand" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erkripa&show_icons=true" alt="kripanand" /></p>
 
 
 <a href="https://github.com/erkripa">
