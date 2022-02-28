@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kripa Nand</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working on  [codepreps](https://www.youtube.com/channel/UCwZTx2OnYhKwiUcIpli35YA)
+- 🔭 I’m currently working on Food Delivery App
 
 - 🌱 I’m currently learning **Flutter,GetX**
 
@@ -23,7 +23,6 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkripa&layout=compact&hide=html" alt="kripanand" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erkripa&show_icons=true" alt="kripanand" /></p>
 
 
