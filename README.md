@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **I love to watch movie.**
 
+![]( https://github.com/erkripa/ghpvc/?username=your-erkripae&color=green)
 ### Connect with me:
 <a href="https://twitter.com/kripana97242749" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kripanand" height="30" width="30" /></a>
 <a href="https://in.linkedin.com/in/kripanandkumarsah" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kripanand" height="30" width="30" /></a>
