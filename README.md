@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Food Delivery App
 
-- 🌱 I’m currently learning **Flutter,GetX**
+- 🌱 I’m currently learning **Bloc Pattern For Statemangement**
 
 - 👯 I’m looking to collaborate with **other company**
 
